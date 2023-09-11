@@ -36,12 +36,6 @@ Data preprocessing was crucial to prepare the dataset for modeling:
 - Encoded categorical variables and standardized/normalized numerical features.
 - Split the dataset into training and testing sets to train and evaluate our models.
 - Removed outliers using the Z-score method.
-![ChurnVsFeatures](https://github.com/iamFury2K/predicting-customer-churn/assets/73428754/df1cd70d-0768-40db-908d-31b870212895)
-![ChurnVsNoChurnFreq](https://github.com/iamFury2K/predicting-customer-churn/assets/73428754/4d3b1a24-ca18-4f8d-8c7b-30441b341cd5)
-## Correlation HeatMap
-![correlation_heatmap](https://github.com/iamFury2K/predicting-customer-churn/assets/73428754/feacd2e7-772a-4107-99fc-45023e1dcbd8)
-## Histogram
-![Histogram with hue](https://github.com/iamFury2K/predicting-customer-churn/assets/73428754/08a16274-fff4-4052-9b9b-04d13a5c2a16)
 ## Model Development
 
 We developed three machine learning models and evaluated their performance:
@@ -88,6 +82,11 @@ Further model fine-tuning and feature engineering could potentially enhance perf
 ## Accuracy Comparison
 
 ![Accuracy_comp](https://github.com/iamFury2K/predicting-customer-churn/assets/73428754/11f59e34-58e4-46fc-bba7-488e0716ff5b)
+![ChurnVsNoChurnFreq](https://github.com/iamFury2K/predicting-customer-churn/assets/73428754/4d3b1a24-ca18-4f8d-8c7b-30441b341cd5)
+## Correlation HeatMap
+![correlation_heatmap](https://github.com/iamFury2K/predicting-customer-churn/assets/73428754/feacd2e7-772a-4107-99fc-45023e1dcbd8)
+## Histogram
+![Histogram with hue](https://github.com/iamFury2K/predicting-customer-churn/assets/73428754/08a16274-fff4-4052-9b9b-04d13a5c2a16)
 
 ---
 
